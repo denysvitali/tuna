@@ -1,6 +1,8 @@
 [submodule "tuna-ge"]
 	path = tuna-ge
 	url = ssh://git@git.ded1.denv.it:4000/shrug/tuna-ge.git
+  branch = denvit/dev
 [submodule "tuna-gui"]
 	path = tuna-gui
 	url = ssh://git@git.ded1.denv.it:4000/shrug/tuna-gui.git
+  branch = denvit/dev
