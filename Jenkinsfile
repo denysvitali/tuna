@@ -52,7 +52,7 @@ pipeline {
           }
         }
         sh "git remote remove supsi | true"
-        sh "git remote add supsi -f https://$CRED@scm.ti-edu.ch/repogit/labingsw022018201907tuna.git | true"
+        sh "git remote add supsi -f https://$CRED@scm.ti-edu.ch/repogit/labingsw022018201907supsige.git | true"
         sh "git push -u supsi origin/$GIT_BRANCH"
         sh "git push --tags supsi origin/$GIT_BRANCH"
         archiveArtifacts artifacts: 'cmake-build-debug/libtuna_ge.a'
