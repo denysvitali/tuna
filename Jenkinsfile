@@ -51,7 +51,7 @@ pipeline {
             COMMIT_LOG = ""
           }
         }
-        sh "git remote add supsi https://$CRED@scm.ti-edu.ch/repogit/labingsw022018201907tunage.git | true"
+        sh "git remote add supsi https://$CRED@scm.ti-edu.ch/repogit/labingsw022018201907tuna.git | true"
         sh "git push -u supsi origin/$GIT_BRANCH"
         sh "git push --tags supsi origin/$GIT_BRANCH"
         archiveArtifacts artifacts: 'cmake-build-debug/libtuna_ge.a'
