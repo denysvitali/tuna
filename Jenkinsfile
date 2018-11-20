@@ -16,6 +16,14 @@ pipeline {
       }
     }
 
+    stage("Submodules Checkout"){
+      steps {
+        sh "git submodule init"
+        sh "git submodule sync"
+        sh "git submodule update"
+      }
+    }
+
     stage("Build Lib"){
       steps {
         script {
