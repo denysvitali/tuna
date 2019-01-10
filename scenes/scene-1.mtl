@@ -1,0 +1,45 @@
+# Blender MTL File: 'scene-1.blend'
+# Material Count: 4
+
+newmtl Black
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.047059 0.047059 0.043922
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+newmtl Material.001
+Ns 96.078431
+Ka 0.140351 0.140351 0.140351
+Kd 0.548538 0.548538 0.548538
+Ks 0.763158 0.763158 0.763158
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd /home/dvitali/Downloads/gauntlet/Gauntlet_Armor_ver_E_diff.jpg
+
+newmtl Material.003
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd -s 15.000000 15.000000 15.000000 /home/dvitali/Documents/supsi/I3B/5-sem/graphics/tuna/tuna-ge/assets/textures/pave.jpg
+
+newmtl Stonish
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.400000 0.400000 0.400000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd /home/dvitali/Downloads/Concrete_011_COLOR.jpg
