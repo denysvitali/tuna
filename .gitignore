@@ -5,3 +5,4 @@ cmake-build-release
 packages/
 .vs/
 x64/
+TestResults/

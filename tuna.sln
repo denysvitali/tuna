@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tuna-ge", "tuna-ge\tuna-ge.
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tuna-gui", "tuna-gui\tuna-gui.vcxproj", "{FCB3E3A4-E649-4CC0-B4C7-38F8DCD0DD9E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "tuna-ge\test\test.vcxproj", "{37A273EB-6F90-4AC3-A4B6-DEFB0BB36444}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{FCB3E3A4-E649-4CC0-B4C7-38F8DCD0DD9E}.Release|x64.Build.0 = Release|x64
 		{FCB3E3A4-E649-4CC0-B4C7-38F8DCD0DD9E}.Release|x86.ActiveCfg = Release|x64
 		{FCB3E3A4-E649-4CC0-B4C7-38F8DCD0DD9E}.Release|x86.Build.0 = Release|x64
+		{37A273EB-6F90-4AC3-A4B6-DEFB0BB36444}.Debug|x64.ActiveCfg = Debug|x64
+		{37A273EB-6F90-4AC3-A4B6-DEFB0BB36444}.Debug|x64.Build.0 = Debug|x64
+		{37A273EB-6F90-4AC3-A4B6-DEFB0BB36444}.Debug|x86.ActiveCfg = Debug|Win32
+		{37A273EB-6F90-4AC3-A4B6-DEFB0BB36444}.Debug|x86.Build.0 = Debug|Win32
+		{37A273EB-6F90-4AC3-A4B6-DEFB0BB36444}.Release|x64.ActiveCfg = Release|x64
+		{37A273EB-6F90-4AC3-A4B6-DEFB0BB36444}.Release|x64.Build.0 = Release|x64
+		{37A273EB-6F90-4AC3-A4B6-DEFB0BB36444}.Release|x86.ActiveCfg = Release|Win32
+		{37A273EB-6F90-4AC3-A4B6-DEFB0BB36444}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
