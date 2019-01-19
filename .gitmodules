@@ -6,3 +6,6 @@
 	path = tuna-gui
 	url = https://git.ded1.denv.it/shrug/tuna-gui.git
   branch = denvit/dev
+[submodule "tuna-docs"]
+	path = tuna-docs
+	url = https://git.ded1.denv.it/shrug/tuna-docs
