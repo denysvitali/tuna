@@ -1,12 +1,9 @@
 var NAVTREE =
 [
   [ "Leap Motion C API", "index.html", [
-    [ "LeapC Guide", "index.html", "index" ],
+    [ "LeapC", "index.html", "index" ],
     [ "API Reference", "modules.html", "modules" ],
-    [ "Examples", "examples.html", "examples" ],
-    [ "Release Notes", "md_Leap_SDK_Release_Notes.html", "md_Leap_SDK_Release_Notes" ],
-    [ "Using the Diagnostic Visualizer", "visualizer.html", null ],
-    [ "Using the Leap Motion Control Panel", "control_panel.html", null ],
+    [ "Examples", "a00006.html", "a00006" ],
     [ "Data Structure Index", "classes.html", null ],
     [ "Field Index", "functions.html", [
       [ "All", "functions.html", null ],
@@ -17,8 +14,8 @@ var NAVTREE =
 
 var NAVTREEINDEX =
 [
-"callback-example.html",
-"group___structs.html#a2cdb318d63d04b8c1df2bd4875292498"
+"a00002.html",
+"a00036.html#ga49a90e9ca6d880d59fa3f1813689f7fd"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

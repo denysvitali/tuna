@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['leap_20concepts',['Leap Concepts',['../concepts.html',1,'index']]],
-  ['leapc_20guide',['LeapC Guide',['../index.html',1,'']]]
+  ['leap_20concepts',['Leap Concepts',['../a00002.html',1,'index']]],
+  ['leapc',['LeapC',['../index.html',1,'']]]
 ];
